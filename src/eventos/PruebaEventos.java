@@ -1,4 +1,4 @@
-package eventos;
+package graficos;
 
 import java.awt.*;
 import javax.swing.*;
